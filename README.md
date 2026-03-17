@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yoonjeong's repository 👋
 
 <!--
 **jyk3716/jyk3716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
