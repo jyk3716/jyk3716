@@ -12,10 +12,7 @@
 | **Canvas & Style** | <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> |
 | **Collaboration** | <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> |
 
----
 
-## 🔭 Currently Working On
-- 📝 **개발 블로그** | 실무 개발 경험, 트러블슈팅, 개인 학습, 업무 방법론 공유
 
 <!--
 **jyk3716/jyk3716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
