@@ -11,7 +11,6 @@
 | **Canvas & Style** | <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> |
 | **Collaboration** | <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> |
 
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjg0ODg0MzQ1)](https://www.git-ranker.com)
 
 
 
