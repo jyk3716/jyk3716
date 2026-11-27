@@ -38,6 +38,15 @@
 **기술**: Vue 3 · Java · Spring Framework · MyBatis · MySQL\
 [프론트엔드](https://github.com/KB-IT-s-your-life-PJT-23-4/frontend) · [백엔드](https://github.com/KB-IT-s-your-life-PJT-23-4/backend)
 
+### 내 인생 마지막 가계부 · 시니어 가계부 서비스
+
+**PM · 프론트엔드 개발** | 2026.04 · 4인 팀
+
+- 프로젝트 구조 설계와 화면 통합을 담당하고, Pinia 기반 거래·날짜 상태와 월별 수입·지출·잔액 계산을 공통화했습니다.
+- Axios와 JSON Server 모의 API를 연동해 거래 변경을 화면에 반영하고, 금액 표시 형식과 저장값을 분리했습니다.
+
+**기술**: Vue 3 · Pinia · Axios · JSON Server
+
 ### 세미비즈 · 반도체 기업 프로파일 서비스
 
 **백엔드 개발** | 2025.06–09 · 4인 팀 · ㈜한국전시 산학 연계
@@ -50,15 +59,6 @@
 
 **기술**: React · Next.js · TypeScript · Prisma · SQL Server · Nodemailer\
 기업 연계 프로젝트로 소스코드는 비공개입니다.
-
-### 내 인생 마지막 가계부 · 시니어 가계부 서비스
-
-**PM · 프론트엔드 개발** | 2026.04 · 4인 팀
-
-- 프로젝트 구조 설계와 화면 통합을 담당하고, Pinia 기반 거래·날짜 상태와 월별 수입·지출·잔액 계산을 공통화했습니다.
-- Axios와 JSON Server 모의 API를 연동해 거래 변경을 화면에 반영하고, 금액 표시 형식과 저장값을 분리했습니다.
-
-**기술**: Vue 3 · Pinia · Axios · JSON Server
 
 ## 지금 확장하고 있는 경험
 
